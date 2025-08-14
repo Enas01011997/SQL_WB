@@ -12,7 +12,7 @@ source 03_select\01_select.sql
 source 03_select\02_select.sql
 
 
-
+source 03_select\02_select.sql
 
 
 
